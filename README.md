@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://githubsaveme.github.io/vishalk.github.io/](https://githubsaveme.github.io/vishalk.github.io/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ua3y_mIlMTZ-HmPeIaxzZ2ypY4PbZIlS/view](https://drive.google.com/file/d/1Ua3y_mIlMTZ-HmPeIaxzZ2ypY4PbZIlS/view)
-
 - ⚡ Fun fact **I'm Lazy**
 
 <h3 align="left">Connect with me:</h3>
