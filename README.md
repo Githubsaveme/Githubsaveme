@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **Android Studio**
+- 🔭 I’m currently working on **Eclipse with Java**
 
 - 🌱 I’m currently learning **Java**
 
