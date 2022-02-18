@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **Eclipse with Java**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Dart**
 
 - 👨‍💻 All of my projects are available at [https://githubsaveme.github.io/vishalk.github.io/](https://githubsaveme.github.io/vishalk.github.io/)
 
