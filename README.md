@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Dart**
 
-- 👨‍💻 All of my projects are available at [https://githubsaveme.github.io/vishalk.github.io/](https://githubsaveme.github.io/vishalk.github.io/)
+- 👨‍💻 Website  [https://githubsaveme.github.io/vishalk.github.io/](https://githubsaveme.github.io/vishalk.github.io/)
 
 - ⚡ Fun fact **I'm Lazy**
 
